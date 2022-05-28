@@ -1,0 +1,21 @@
+{
+    "name": "um7-arduino",
+    "version": "1.0.0",
+    "description": "Driver for Redshift Labs UM7 orientation sensor, using the Arduino framework.",
+    "keywords": "orientation, arduino, driver",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/xcb-xwii/um7-arduino.git"
+    },
+    "authors": [
+        {
+            "name": "Wang Rongfei",
+            "url": "https://github.com/xcb-xwii",
+            "maintainer": true
+        }
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/xcb-xwii/um7-arduino.git",
+    "frameworks": "arduino",
+    "platforms": "*"
+}
